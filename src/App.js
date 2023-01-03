@@ -5,11 +5,11 @@ function App() {
         <div className="headerLeft">
           <svg />
           <div>
-            <h3 className="headerInfo">REACT SNEAKERS</h3>
-            <p>World's best sneakers for sure!</p>
+            <h3 className="headerInfo">REACT RINGS</h3>
+            <p>World's best Rings for sure!</p>
           </div>
         </div>
-        <ul className="">
+        <ul className="headerRight">
           <li>
             <svg />
             <span>1205 Rubles</span>
